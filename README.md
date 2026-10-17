@@ -22,6 +22,8 @@
 
 启动后界面右下角有「API 库」。想用自己 Key 的话（DeepSeek 等）可以直接加；想用免费模型就继续第二步。
 
+**装好第一次启动就有**：提示词工程师子 agent（prompt-engineer，帮你把大白话写成好提示词）+ 27 个精选技能全部默认启用——不想要的在技能面板里自己关掉就行，你的选择重启后会保持。
+
 ## 第二步：装 OC 摆渡·carrot 版（免费模型配件）
 
 > 这个配件改装自开源项目 [RuiC-oc-ferry](https://github.com/HRuiCcc/RuiC-oc-ferry)（OC 摆渡，作者 HRuiCcc），感谢原作者。
