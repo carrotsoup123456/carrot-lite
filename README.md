@@ -24,6 +24,8 @@
 
 ## 第二步：装 OC 摆渡·carrot 版（免费模型配件）
 
+> 这个配件改装自开源项目 [RuiC-oc-ferry](https://github.com/HRuiCcc/RuiC-oc-ferry)（OC 摆渡，作者 HRuiCcc），感谢原作者。
+
 ### Mac
 - Apple 芯片：`oc-ferry-carrot-1.0.0-mac-arm64.dmg`
 - Intel 芯片：`oc-ferry-carrot-1.0.0-mac-x64.dmg`
