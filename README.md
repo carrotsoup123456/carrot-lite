@@ -5,6 +5,15 @@
 1. **carrot-lite**：主程序，你的 AI agent 桌面端。
 2. **OC 摆渡·carrot 版**：配件，把 OpenCode 的免费模型一键导入 carrot。
 
+## 下载（点文件名直接下）
+
+| | Mac（Apple 芯片 M1/M2/M3/M4） | Mac（Intel） | Windows |
+|---|---|---|---|
+| **carrot-lite** | [carrot-lite-1.0.0-mac-arm64.dmg](https://github.com/carrotsoup123456/carrot-lite/releases/latest/download/carrot-lite-1.0.0-mac-arm64.dmg) | [carrot-lite-1.0.0-mac-x64.dmg](https://github.com/carrotsoup123456/carrot-lite/releases/latest/download/carrot-lite-1.0.0-mac-x64.dmg) | [carrot-lite-1.0.0-win-x64-setup.exe](https://github.com/carrotsoup123456/carrot-lite/releases/latest/download/carrot-lite-1.0.0-win-x64-setup.exe) |
+| **OC 摆渡·carrot 版** | [oc-ferry-carrot-1.0.0-mac-arm64.dmg](https://github.com/carrotsoup123456/carrot-lite/releases/latest/download/oc-ferry-carrot-1.0.0-mac-arm64.dmg) | [oc-ferry-carrot-1.0.0-mac-x64.dmg](https://github.com/carrotsoup123456/carrot-lite/releases/latest/download/oc-ferry-carrot-1.0.0-mac-x64.dmg) | [oc-ferry-carrot-1.0.0-win-x64-setup.exe](https://github.com/carrotsoup123456/carrot-lite/releases/latest/download/oc-ferry-carrot-1.0.0-win-x64-setup.exe) |
+
+> 怎么看自己的 Mac 是哪种芯片：左上角  → 关于本机，「芯片」写 Apple M× 就是 Apple 芯片，写 Intel 就是 Intel。
+
 ---
 
 ## 第一步：装 carrot-lite
